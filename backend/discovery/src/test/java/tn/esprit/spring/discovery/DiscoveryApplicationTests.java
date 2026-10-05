@@ -1,12 +1,13 @@
-package esprit.canditature;
+package tn.esprit.spring.discovery;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CanditatureApplicationTests {
+class DiscoveryApplicationTests {
 
     @Test
     void contextLoads() {
     }
+
 }
